@@ -1,5 +1,5 @@
 # GIS
-![What is GIS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgisgeography.com%2Fwhat-is-gis%2F&psig=AOvVaw2kHi8l_OrkelNGhlL4pqd6&ust=1737098903824000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjsoezb-YoDFQAAAAAdAAAAABAE)
+![What is GIS](https://gisgeography.com/wp-content/uploads/2014/07/What-Is-Geographic-Information-Systems-Featured-1265x727.jpg)
 
 A short description of the topic.
 
